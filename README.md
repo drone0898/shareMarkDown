@@ -5,7 +5,7 @@
 ![0](./img/0.png)
 
 
-2. 파일을 다운로드하여 압축을해제합니다. [다운로드](https://github.com/drone0898/shareMarkDown/blob/main/%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A9%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.zip)
+2. 파일을 다운로드하여 압축을해제합니다. [다운로드](https://github.com/drone0898/shareMarkDown/raw/main/%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B3%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%89%E1%85%A9%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.zip)
 
 ![1](./img/1.png)
 
